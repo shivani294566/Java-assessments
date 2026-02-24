@@ -1,0 +1,10 @@
+package com.multipleobject;
+
+public class Employee1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
